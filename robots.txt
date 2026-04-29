@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://munofficial2026.github.io/handbook-9nuwnn/sitemap.xml
